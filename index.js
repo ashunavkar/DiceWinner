@@ -14,7 +14,7 @@ if (rand1 > rand2){
     document.querySelector("h1").innerHTML = "Player 1 won"
 }
 else if (rand2 > rand1){
-    document.querySelector("h1").innerHTML = "Player 1 won"
+    document.querySelector("h1").innerHTML = "Player 2 won"
 }
 else {
     document.querySelector("h1").innerHTML = "Draw!"
